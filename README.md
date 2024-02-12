@@ -7,3 +7,5 @@ segmentation analysis, gross margins, sales volumes, consumption trends, and pre
 While successful in multiple facets, we faced challenges in forecasting gross margins due to data limita-
 tions. Our findings shed light on market trends, offering valuable insights for informed decision-making
 and strategy formulation.
+
+Full report and findings [here](https://github.com/cdngouma/french_winery_ml_project/blob/main/report.pdf)
