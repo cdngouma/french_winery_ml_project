@@ -107,4 +107,3 @@ After combining data from all of these datasets, we ended up with the following 
 <p align="center">
   <img src="figures/correlation_matrix_forecasting.png" width="600" title="hover text">
 </p>
-
